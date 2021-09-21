@@ -1,6 +1,7 @@
 {
 	"name": "request_header",
-	"version": "0.0.1",
+	"version": "1.0.1",
+	"author": "Suyog Patil",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
 	"scripts": {
